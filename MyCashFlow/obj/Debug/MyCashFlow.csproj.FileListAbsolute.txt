@@ -1,0 +1,7 @@
+C:\Users\kietpham\source\repos\WCF\MyCashFlow\MyCashFlow\MyCashFlow\bin\MyCashFlow.dll.config
+C:\Users\kietpham\source\repos\WCF\MyCashFlow\MyCashFlow\MyCashFlow\bin\MyCashFlow.dll
+C:\Users\kietpham\source\repos\WCF\MyCashFlow\MyCashFlow\MyCashFlow\bin\MyCashFlow.pdb
+C:\Users\kietpham\source\repos\WCF\MyCashFlow\MyCashFlow\MyCashFlow\obj\Debug\MyCashFlow.csproj.AssemblyReference.cache
+C:\Users\kietpham\source\repos\WCF\MyCashFlow\MyCashFlow\MyCashFlow\obj\Debug\MyCashFlow.csproj.CoreCompileInputs.cache
+C:\Users\kietpham\source\repos\WCF\MyCashFlow\MyCashFlow\MyCashFlow\obj\Debug\MyCashFlow.dll
+C:\Users\kietpham\source\repos\WCF\MyCashFlow\MyCashFlow\MyCashFlow\obj\Debug\MyCashFlow.pdb

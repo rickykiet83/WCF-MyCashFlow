@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="04755e2d-cf45-4776-8b23-11d75efee92a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50735/CashRecordService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CashRecordService.wsdl" MetadataType="Wsdl" ID="d0228aa7-75a9-4570-90f5-ae31a925ec22" SourceId="1" SourceUrl="http://localhost:50735/CashRecordService.svc?wsdl" />
+    <MetadataFile FileName="CashRecordService.xsd" MetadataType="Schema" ID="fdc2c480-ff19-4ef7-ae73-9f3857b1fdca" SourceId="1" SourceUrl="http://localhost:50735/CashRecordService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CashRecordService.disco" MetadataType="Disco" ID="92523f04-25b4-41b6-ab4a-8ddd5566a91b" SourceId="1" SourceUrl="http://localhost:50735/CashRecordService.svc?disco" />
+    <MetadataFile FileName="CashRecordService1.xsd" MetadataType="Schema" ID="2893bb07-9847-4227-8207-a89d22baf0e6" SourceId="1" SourceUrl="http://localhost:50735/CashRecordService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CashRecordService2.xsd" MetadataType="Schema" ID="4248d407-c9eb-440c-b46a-fb80cccc8c86" SourceId="1" SourceUrl="http://localhost:50735/CashRecordService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
