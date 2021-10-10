@@ -15,10 +15,19 @@ namespace MyCashFlowClient
 
         }
 
+        private CashRecordServiceClient InitServiceClient()
+        {
+            var client = new CashRecordServiceClient();
+            client.ClientCredentials.UserName.UserName = "test";
+            client.ClientCredentials.UserName.Password = "password";
+            return client;
+        }
+
         protected void loginBtn_Click(object sender, EventArgs e)
         {
-            CashRecordServiceClient client = new CashRecordServiceClient();
+            var client = InitServiceClient();
             var result = client.Login(email.Value, pwd.Value);
+            client.Close();
             if (result == "Success")
             {
                 Session["UserEmail"] = email.Value;
